@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empleados-6fed3": {
+      "hosting": {
+        "angularfirebaseapp": [
+          "empleados-6fed3"
+        ]
+      }
+    }
+  }
+}
